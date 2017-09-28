@@ -1,37 +1,22 @@
 {"version_code":451951,"content":"
 <p>تحديث 6.00</p>
 
-<li>التحديث لنسخة الماركت 2.16.310</li>
-<li>إضافة فيسات الواتس اب الجديدة</li>
-<li>إمكانية تعديل الصور قبل ارسالها(الرسم - الكتابة إضافة الملصقات على الصور)</li>
-<li>(حصريا) إمكانية الاتصال مكالمة هاتفية من داخل الواتس اب</li>
-<li>إضافة الخيار 2.5.4 لتحديد مدة تنبيه من اصبح متصل ومن زار بروفايلك</li>
-<li>إضافة الخيار رقم 5.3 لتحديد حجم المقطع الصوتي المرسل ل 100 ميغا بدلا من 16 ميغا</li>
-<li>إضافة الخيار 2.2.2c لحساب الوقت المنقضي لاخر ظهور </li>
-<li>إضافة الخيار رقم 2.4.14 لتغيير لون اسم المجموعة ودعم تغيير ثيم شاشة اعادة التوجيه من القسم 2.4</li>
-<li>إضافة الخيار رقم 3.14 لتغيير لون ايقونة الفيسات في شاشة الإشعارات المنبثقة</li>
-<li>إصلاح عدم فتح سجل whatsapp.log</li>
-<li>إضافة الترجمة للغة الفارسيية</li>
-<li>إصلاح العودة للخلفية الافتراضية عند استخدام خلفية مخصصة لكل محادثة (الخيار 1.2.0)</li>
-<li>إصلاح ويدجت إخفاء الظهور في بعض الاجهزة</li>
-<li>تعديل الترجمة في اللغة العربية</li>
-<li>إصلاحات اخرى</li>
-
-
-<li> New Base Updated to 2.16.310</li>
-<li> (Exclusive) Elapsed Time instead of Last Seen on Main Screen (Mod 2.2.2c) (use 24hr time format) </li>
-<li> (Exclusive) Option to make normal call from inapp instead of WhatsApp call</li>
-<li> Added New Emojis (send Big Emojis) </li>
-<li> Added Doodle (Now add edit pics with emojis & text)</li>
-<li> Added Option to set duration for Online Toast (Mod 2.5.4)</li>
-<li> Added option to Send Audio Clip upto 100mb instead of 16mb (Mod 5.3)</li>
-<li> Added Option to change color of Group name while Forwarding a msg (Mod 2.4.14)</li>
-<li> Added Option to change Background of Emoji in Pop-up Notification (Mod 3.14)</li>
-<li> Added Farsi Language Translation</li>
-<li> Fixed WhatsApp.Log</li>
-<li> Fixed Return to Default wallpaper when use mod 1.2.0</li>
-<li> Fixed GB Widget in some devices</li>
-<li> Other Fixes</li>
+<li>انسخة المطور عبد الغفور حاج عارف</li>
+<li>التحديث لنسخة الماركت 2.17.296</li>
+<li>تمديد عمر النسخة لمدة سنة</li>
+<li>اضافة 2000 حالة جاهزة منوعة</li>
+<li>رفع حالة الفيديو يمكنك رفع فيديو يصل حجمه 72ميغا واكثر من 13ثانية كما في النسخة الرسمية(هذا مفعل فقط بنسخة AF)</li>
+<li>اضافة ميزة رسالة الترقية حيث سيتم اشعاركم بكل تحديث للنسخة</li>
+<li>يمكنك إستعادة اي رسالة بعد إرسالها وسيتم حذفها من كل الاجهزة التي ارسلت لها</li>
+<li>(حصريا) يمكنك الان تعطيل التحميل التلقائي للوسائط لكل محادثة على حدى (افتح بروفايل اي محادثة ثم اختر التنزيل التلقائي للوسائط)</li>
+<li>(حصريا) يمكنك الان ارسال رسالة او الاتصال برقم غير محفوظ في جهازك مثل تطبيق الفايبر (اذهب الى قسم المكالمات ثم اضغط على الزر العائم)</li>
+<li>إضافة الخيار رقم 5.5 لارسال الصور بالحجم والجودة الاصلية</li>
+<li>(حصريا) إمكانية إخفاء انك شاهدت حالة محادثة معينة(افتح بروفايل اي محادثة ثم الخصوصية)</li>
+<li>تصميم جديد لواجهة المكالمات</li>
+<li>يمكنك الان تعديل الرسالة المجدولة بعد جدولتها</li>
+<li>يمكنك الان وضع حالة كتابية (الستوري)</li>
+<li>إصلاح عدم عمل whatsapp.log</li>
+<li>اصلاحات اخرى</li>
 
 ","url":"https://afmods.blogspot.com"
 }
