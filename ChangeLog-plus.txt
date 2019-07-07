@@ -1,10 +1,26 @@
-{"version_code":451209,"content":"
-<p>تحديث 11.00</p>
+{"version_code":451211,"content":"
+<p>تحديث 12.00</p>
 
-<li>تحديث اصلاحي</li>
-<li>اصلاح مشكلة الايقاف الاجباري عند الدخول للاعدادات بالنسخة الذهبية</li>
-<li>سيتم حذف رسالة الاشعار غدا</li>
-<li>Fix problems and errors</li>
+<li>التحديث لنسخة الماركت 2.19.17</li>
+<li>نسخة ضد الحظر (في حال تم حظر رقمك في وقت سابق يجب عمل نسخة احتياطية للمحادثات ثم حذف الواتس اب وتثبيته من جديد)</li>
+<li>تم اضافة ستايلات الشاشة الرئيسية</li>
+<li>تم اضافة ميزة تبديل الحسابات</li>
+<li>تم اضافة الاضافات التقنية</li>
+<li>إضافة الفيسات الجديدة</li>
+<li>يمكنك عمل مكالمة جماعية ما اعضاء المجموعات</li>
+<li>اذا قمت بتحديد رسالة مرسلة في المجموعة يمكنك الرد على مرسلها بشكل منفرد في الخاص</li>
+<li>اصلاح الانهيار عند محاولة البحث عن ثيمات</li>
+<li>اصلاح اضافة الملصقات من قوقل بلاي</li>
+<li>إصلاحات اخرى</li>
 
-","url":"https://a.afmods.net/2019/04/af-af2-whatsapp-v1100.html?m=1"
+<li> Added Now You can Add Stickers From PlayStore to any Package</li>
+<li> New Base Updated to 2.19.17</li>
+<li> Added New Emojis</li>
+<li> Added You can call Participants in groups</li>
+<li> Added Reply Privately when select message in groups</li>
+<li> Fixed Added Stickers From Google Play Apps</li>
+<li> Fixed Crash when search in themes</li>
+<li> Many More Fixes</li>
+
+","url":"https://a.afmods.net/2019/07/af-af2-whatsapp-v1200.html#more"
 }
